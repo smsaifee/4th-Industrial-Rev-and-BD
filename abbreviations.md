@@ -1,0 +1,25 @@
+# List of Abbreviations
+
+- **3D** — Three Dimensional
+- **4IR** — Fourth Industrial Revolution
+- **AI** — Artificial Intelligence
+- **AR** — Augmented Reality
+- **AMTOB** — Association of Mobile Telecom Operators of Bangladesh
+- **BRTC** — Bangladesh Telecommunication Regulatory Commission
+- **CAGR** — Compound Annual Growth Rate
+- **CV** — Curriculum Vitae
+- **E-CAB** — e-Commerce Association of Bangladesh
+- **GDP** — Gross Domestic Product
+- **ICT** — Information and Communications Technology
+- **IC** — Integrated Circuit
+- **IoT** — Internet of Things
+- **IT** — Information Technology
+- **ITES** — Information Technology Enabled Services
+- **MCQ** — Multiple Choice Question
+- **ML** — Machine Learning
+- **NGO** — Non-Governmental Organization
+- **OTT** — Over-the-top
+- **PWD** — Public Works Department
+- **SME** — Small and Medium-Sized Enterprises
+- **RMG** — Ready-Made Garment
+- **VR** — Virtual Reality
