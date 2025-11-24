@@ -1,5 +1,3 @@
-# README
-
 ## Thesis on the Fourth Industrial Revolution and Its Impacts on Bangladesh
 
 This GitBook contains the full thesis organized into chapters and sections for easy reading and navigation.
